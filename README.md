@@ -16,7 +16,7 @@ The project will utilize two primary datasets:
 - *Carbon Dioxide (CO2) Levels*: Historical measurements by state
 - *Sulfur Dioxide (SO2) Concentrations*: Recorded levels over multiple years
 - *Nitrogen Oxide (NO2)*: Concentration measurements across states
-- **The Exact Location **: Record of location
+- *The Exact Location *: Record of location
 - *The Date Of Measures*: Dates of records
 
 ## *Plan*
