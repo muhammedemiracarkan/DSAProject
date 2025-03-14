@@ -48,8 +48,6 @@ The project will utilize two primary datasets:
 - *Python*: Primary programming language for data analysis
 - *Pandas & NumPy*: For data manipulation and calculation
 - *Matplotlib & Seaborn*: For visualization and statistical graphics
-- *GeoPandas*: For geographical data visualization
-- *Scikit-learn*: For statistical modeling and regression analysis
 - *Jupyter Notebooks*: For documentation and sharing analysis process
 
 ## *Expected Outcomes*
