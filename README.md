@@ -64,3 +64,6 @@ The project will utilize two primary datasets:
 - Accounting for population mobility between states
 
 This project will contribute valuable insights into the public health impacts of air pollution, potentially informing both environmental policy and cardiovascular disease prevention strategies.
+
+## *I uploaded my final report as 2 power points. Some designs are changed when I uploadede it so you can see not downloaded versions in link below*
+https://drive.google.com/drive/folders/1v2gBKfXi2KHMRnAzD7McAm8h67f6cuf_?usp=sharing
